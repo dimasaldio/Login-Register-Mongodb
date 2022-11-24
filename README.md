@@ -1,5 +1,5 @@
 # Login-Register-Mongoose
-Login Register using mongodb
+Login Register using mongodb, express, passport, jwt, mongoose, bcrypt
 
 POST : /user/register -name -username -email -password
 
